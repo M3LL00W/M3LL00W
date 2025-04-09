@@ -30,7 +30,8 @@
  
 
 
-![snake gif](https://raw.githubusercontent.com/M3LL00W/M3LL00W/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/M3LL00W/M3LL00W/output/snake.svg)
+
 
 
 
