@@ -28,7 +28,7 @@
  </br>
 </br>
  
- ### 🐍 Watch the snake eat my contributions!
+
 
 ![snake gif](https://raw.githubusercontent.com/M3LL00W/M3LL00W/output/github-contribution-grid-snake.svg)
 
