@@ -28,7 +28,8 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/M3LL00W/M3LL00W/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://raw.githubusercontent.com/M3LL00W/M3LL00W/output/github-contribution-grid-snake.svg)
+
  
 </div>
 
