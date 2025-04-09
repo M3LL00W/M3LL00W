@@ -30,7 +30,7 @@
  
 
 
-![snake gif](https://raw.githubusercontent.com/M3LL00W/M3LL00W/output/snake.svg)
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 
 
